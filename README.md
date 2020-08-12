@@ -1,6 +1,17 @@
-# Quasar App (quiz_app)
+# Todo App
 
-A Quasar Framework app
+Todo App - A Quasar Framework app
+
+# Demo
+
+https://todo-app-site.netlify.app/
+
+![](src/assets/pic3.png)
+
+![](src/assets/pic2.png)
+
+![](src/assets/pic1.png)
+
 
 ## Install the dependencies
 ```bash
