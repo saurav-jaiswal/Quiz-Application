@@ -4,7 +4,7 @@ Todo App - A Quasar Framework app
 
 # Demo
 
-https://todo-app-site.netlify.app/
+https://quiz-app-site.netlify.app/
 
 ![](src/assets/pic3.png)
 
